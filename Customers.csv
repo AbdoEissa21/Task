@@ -1,0 +1,21 @@
+,Customer_ID,Customer_Name,Customer_Email
+0,1001,John Smith,john.smith@example.com
+1,1002,Jane Doe,jane.doe@example.com
+2,1003,Emily Johnson,emily.johnson@example.com
+3,1004,Michael Brown,michael.brown@example.com
+4,1005,Sarah Davis,sarah.davis@example.com
+5,1006,Peter Pan,peter.pan@example.com
+6,1007,Lily Evans,lily.evans@example.com
+7,1008,Tom Riddle,tom.riddle@example.com
+8,1009,Bruce Wayne,bruce.wayne@example.com
+9,1010,Clark Kent,clark.kent@example.com
+10,1011,Diana Prince,diana.prince@example.com
+11,1012,Barry Allen,barry.allen@example.com
+12,1013,Arthur Curry,arthur.curry@example.com
+13,1014,Hal Jordan,hal.jordan@example.com
+14,1015,Victor Stone,victor.stone@example.com
+15,1016,Lois Lane,lois.lane@example.com
+16,1017,James Gordon,james.gordon@example.com
+17,1018,Selina Kyle,selina.kyle@example.com
+18,1019,Oliver Queen,oliver.queen@example.com
+19,1020,Roy Harper,roy.harper@example.com
